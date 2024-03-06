@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(107, 170, 189);
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+.prf{
+    font-family: arial;
+    font-weight: 600;
+}
+.ctr{
+    text-align: center;
+}
+.rgt{
+    text-align: right;
+}
